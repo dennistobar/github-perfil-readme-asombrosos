@@ -52,7 +52,7 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 ## Categorias
 
 #### Github Actions 🤖
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt){target="_blank"}
+- <a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">Thomas Guibert</a>
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 
